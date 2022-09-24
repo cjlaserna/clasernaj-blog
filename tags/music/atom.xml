@@ -3,7 +3,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://cecilapp.github.io/the-butler/tags/music/</id>
   <title>Corner of The Internet - Music</title>
-  <subtitle><![CDATA[All the little things I learned today, reiterated to you so I can prepare for my midterms & interviews.]]></subtitle>
+  <subtitle><![CDATA[A personal csci blog <3]]></subtitle>
   <link href="https://cecilapp.github.io/the-butler/tags/music/atom.xml" rel="self" type="application/atom+xml" />
   <link href="https://cecilapp.github.io/the-butler/tags/music/" rel="alternate" type="text/html" />
   <updated>2020-02-05T15:43:00+01:00</updated>
@@ -25,6 +25,6 @@
     </content>
     <link href="https://cecilapp.github.io/the-butler/blog/daft-punk/" rel="alternate" type="text/html" />
     <published>2020-02-05T15:43:00+01:00</published>
-    <updated>2022-09-24T21:53:25+02:00</updated>
+    <updated>2022-09-24T21:58:06+02:00</updated>
   </entry>
 </feed>
