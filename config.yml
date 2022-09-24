@@ -1,10 +1,22 @@
-title: The Butler
-baseline: Your blogging assistant
-description: A ready to use static blog, powered by Cecil.
-baseurl: /
-canonicalurl: true
-keywords: [Cecil, Static Site Generator, SSG]
+baseline: Catherine Laserna
+theme:
+  - hyde
+  - netlify
+  - netlify-cms
+keywords:
+  - Cecil
+  - Static Site Generator
+  - SSG
 author: Arnaud Ligny
+date:
+  format: j F Y
+  timezone: Europe/Paris
+hyde:
+  sidebar:
+    sticky: true
+  theme: ""
+  reverse: false
+title: Corner of The Internet
 language: en
 languages:
   - code: en
@@ -14,15 +26,7 @@ languages:
     config:
       baseline: Votre assistant de blog
       description: Un blog statique prêt à l’emploi, propulsé par Cecil.
-date:
-  format: j F Y
-  timezone: Europe/Paris
-theme:
-  - hyde
-  - netlify
-  - netlify-cms
-hyde:
-  sidebar:
-    sticky: true # Content to the bottom of the sidebar
-  theme: '' # red, orange, yellow, green, cyan, blue, magenta, brown or cecil
-  reverse: false # Reverse layout
+description: All the little things I learned today, reiterated to you so I can
+  prepare for my midterms & interviews.
+baseurl: /
+canonicalurl: true
