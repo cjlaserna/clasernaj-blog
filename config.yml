@@ -26,7 +26,6 @@ languages:
     config:
       baseline: Votre assistant de blog
       description: Un blog statique prêt à l’emploi, propulsé par Cecil.
-description: All the little things I learned today, reiterated to you so I can
-  prepare for my midterms & interviews.
+description: A personal csci blog <3
 baseurl: /
 canonicalurl: true
